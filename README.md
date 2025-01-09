@@ -1,0 +1,1 @@
+- Learned to use bolt.new for frontend development, how it works
